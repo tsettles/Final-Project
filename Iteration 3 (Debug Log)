@@ -1,4 +1,5 @@
-
+/*For the physicality of the table*/
+/*I had to change out a single paperclip for two when I was recreating an appropriate contact. I also soldered a miniature copper plane to a resistorto then ensure a wide spread contact
 const int numPanels = 4;            /*ended up using 4 panels instead of 12 because of the size of the breadboard and the number of jumper wires I had*/
 const int numSensors = 4;           /*ended up using 4 panels instead of 12 because of the size of the breadboard and the number of jumper wires I had*/
 
